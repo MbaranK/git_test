@@ -1,1 +1,11 @@
-Hello!
+code . = Visual Studi Code açma kısayolu
+mkdir =  mkdir repos(örnek) = directory oluşturmak için kullandığımız komut
+cd = cd repos/(örnekte kullanılan) =  repos'u açmak için
+git clone = github dan kopyaladığımız linki yerleştirdik.
+git remote -v = url' yi açacak, remote for my local copy
+touch = dosya oluşturmak için kullanılan komut(touch hello_world.txt)
+git status = durumu öğrenmek için kulanılan komut(staged, commit)
+git add = Git' de dosyayı staging area ya sokmak için kullanılan komut
+git commit = git commit -m( m = message) = dosyayı git sistemine commitlemek için(değişiklikten sonra son hal)
+git log = dosya ne zaman oluşturuldu, ne zaman değişti vs.
+git push = to upload my work to the GitHUb repository
