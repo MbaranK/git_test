@@ -1,0 +1,28 @@
+#Number2 {
+
+    color: blue;
+    font-size: 36px;
+
+
+}
+
+.same {
+
+    background-color:rgba(230, 30, 50, 0.57);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#Number4 {
+
+    background-color: rgba(50,230,10, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.same.Number3 {
+
+font-size: 24px;
+
+
+}
