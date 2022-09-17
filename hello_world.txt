@@ -9,3 +9,10 @@ git add = Git' de dosyayı staging area ya sokmak için kullanılan komut
 git commit = git commit -m( m = message) = dosyayı git sistemine commitlemek için(değişiklikten sonra son hal)
 git log = dosya ne zaman oluşturuldu, ne zaman değişti vs.
 git push = to upload my work to the GitHUb repository
+
+Html link ekleme <a> kodu ile yapılıyor. Ancak tek başına bu kod yeterli değişiklikten
+href komutunu birlikte kullanmak gerekmekte(href komutu ile birlikte site içinde altında mavi yazı oluşuyor(link olduğu belirleniyor.))
+Örnek
+<a href="https://www.theodinproject.com/aboutclick">click me</a>
+Linkler ikiye ayrılır. Başka siteye yönlendiren(Absolute link) ve kendi sitemizdeki sayfalara yönlendiren(Relative link)
+Absolute link protocol://domain/path şeklinde olmalıdır herzaman. Üstteki örnek buna örnektir.

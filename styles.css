@@ -1,28 +1,13 @@
-#Number2 {
+.avatar.proportioned {
 
-    color: blue;
-    font-size: 36px;
-
-
-}
-
-.same {
-
-    background-color:rgba(230, 30, 50, 0.57);
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
-}
-
-#Number4 {
-
-    background-color: rgba(50,230,10, 0.5);
-    font-size: 24px;
-    font-weight: bold;
+    height: auto;
+    width: 300px;
 
 }
 
-.same.Number3 {
+.avatar.distorted {
 
-font-size: 24px;
-
+    height: 400px;
+    width: 200px;
 
 }
